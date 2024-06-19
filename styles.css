@@ -91,3 +91,13 @@
     border-radius: 8px;
     align-items: center;
   }
+
+  #fotodaequipe img {
+    max-width: 500px;
+    max-height: 500px;
+    justify-content: space-around;
+    border-radius: 8px;
+    align-items: center;
+  }
+
+
